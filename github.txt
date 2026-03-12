@@ -1,0 +1,6 @@
+github pr code add krne ke liye terminal me ye code dalne honge 
+
+1.  git add .
+2.  git commit -m "jo massege likhna bo yaha pr"
+3.  git push 
+or apka code github pr add go jayega 
